@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![Rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/musemosmouses/judge-laugh/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![Reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/musemosmouses/judge-laugh/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+
 # Make the AI Judge Laugh
 
 Entry for the make.fun bounty `u-ronigrv-make-the-ai-judge-laugh-8db2407a`
